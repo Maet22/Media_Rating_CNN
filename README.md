@@ -13,7 +13,7 @@ On base of the model's results was also constructed an Indicator reflecting the 
 then placed on a scale of 20. The evolution of the weekly average of this Indicator was plotted as well. 
 
 Trump is a subject that generates at least 1 checked article per Week and in but majority of weeks over 15. 
-The general trend of the ratings indicates a hostile neutrality from the articles' writer, 
+The general trend of the ratings indicates a hostile neutrality from the articles' writers, 
 the negative rating being as a rule considerably higher than the positive one, between 10 and 3 times with a few exceptions. 
 Subsequently, I have deepened the analysis at the level of the weeks presenting some sort of diverging ratings compared to the other weeks: 
 the articles of these weeks were retrieved, read fully or skim read, and the events treated by the articles and likely to explain the variations Added as annotations on the global rating plot. 
