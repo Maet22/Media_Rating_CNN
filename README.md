@@ -17,3 +17,7 @@ The general trend of the ratings indicates a hostile neutrality from the article
 the negative rating being as a rule considerably higher than the positive one, between 10 and 3 times with a few exceptions. 
 Subsequently, I have deepened the analysis at the level of the weeks presenting some sort of diverging ratings compared to the other weeks: 
 the articles of these weeks were retrieved, read fully or skim read, and the events treated by the articles and likely to explain the variations Added as annotations on the global rating plot. 
+
+In addition to being in the project notebook, the plot with its annotations is shown below.
+
+![CNN Score over 1 Year aug  23-aug 24](https://github.com/user-attachments/assets/52bfbad4-a115-4b2e-bd62-d59d6594c76d)
